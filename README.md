@@ -6,7 +6,7 @@ Backend : NestJS
 Frontend : Vue 3 + Nuxt 3
 Runtime & Bundler: Bun
 
-## [Subject](https://github.com/Ayblin42/inception)
+## [Subject](https://github.com/Ayblin42/ft_transcendance/blob/main/transcendence.pdf)
 
 
 ![image](https://github.com/user-attachments/assets/1f10af67-8afd-4355-afd2-9a0ea455f06f)
